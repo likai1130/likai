@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited by XMLSpy® -->
+<CATALOG>
+<CD>
+	<TITLE>李凯</TITLE>
+	<ARTIST>姓名:</ARTIST>
+	<COUNTRY>USA</COUNTRY>
+	<COMPANY>Columbia</COMPANY>
+	<PRICE>10.90</PRICE>
+	<YEAR>1985</YEAR>
+</CD>
+<CD>
+	<TITLE>态度决定高度，细节决定成败</TITLE>
+	<ARTIST>座右铭:</ARTIST>
+	<COUNTRY>UK</COUNTRY>
+	<COMPANY>CBS Records</COMPANY>
+	<PRICE>9.90</PRICE>
+	<YEAR>1988</YEAR>
+</CD>
+</CATALOG>

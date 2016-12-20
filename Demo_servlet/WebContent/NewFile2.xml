@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited by XMLSpy -->
+<CATALOG>
+<CD>
+	<ARTIST>姓名:</ARTIST>
+	<TITLE>李凯</TITLE>
+</CD>
+<CD>
+	<ARTIST>年龄:</ARTIST>
+	<TITLE>24</TITLE>
+</CD>
+<CD>
+	<ARTIST>爱好:</ARTIST>
+	<TITLE>听音乐</TITLE>
+</CD>
+<CD>
+	<ARTIST>工作态度:</ARTIST>
+	<TITLE>干活不任性，干活要拼命</TITLE>
+</CD>
+<CD>
+	<ARTIST>人生格言:</ARTIST>
+	<TITLE>态度决定高度，细节决定成败</TITLE>
+</CD>
+</CATALOG>
